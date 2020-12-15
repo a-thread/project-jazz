@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Honeybadgers</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+
+        div {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 1rem;
+        }
+
+        div:nth-of-type(3) {
+            flex-direction: column;
+        }
+
+        a {
+            padding: 2rem;
+        }
+
+        a:nth-child(3) {
+            font-weight: bolder;
+        }
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 560px;
+        }
+
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+            color: black;
+        }
+
+        /* Dark Mode */
+
+        body {
+            background-color: black;
+            color: white;
+        }
+
+        tr:nth-child(even)>td:nth-child(2) {
+            border-left: solid 2px black;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Honeybadgers Don't Care</h1>
+    <br />
+    <div>
+        <img src="https://static.hollywoodreporter.com/sites/default/files/2012/01/honey_badger_cover.jpg"
+            alt="picture of Honeybadger not caring" />
+    </div>
+    <div style="display: flex; justify-content: center;">
+        <a href="https://animals.howstuffworks.com/mammals/honey-badger.htm#:~:text=%22Their%20thick%20skin%20is%20loose,bite%20the%20animal%20right%20back.">Why they don't care</a>
+        <a style="color: red;" href="https://giphy.com/explore/honey-badger">Moar Honeybadgers</a>
+        <a href="https://www.nationalgeographic.com/animals/mammals/h/honey-badger/#:~:text=Honey%20badgers%2C%20also%20known%20as,bulbs%2C%20berries%2C%20and%20fruits."
+            target="_blank">Get the Facts</a>
+    </div>
+    <div>
+        <h3>Why I love them:</h3>
+        <ul>
+            <li>they just don't care</li>
+            <li>they look like skunks</li>
+            <li>they're scrappy and therefore relatable</li>
+        </ul>
+
+        <ol>
+            <li>they just don't care</li>
+            <li>they look like skunks</li>
+            <li>they're scrappy and therefore relatable</li>
+        </ol>
+    </div>
+
+    <div>
+        <table>
+            <tr>
+                <th>Likes</th>
+                <th>Dislikes</th>
+            </tr>
+            <tr>
+                <td>HONEY!</td>
+                <td>Farmers</td>
+            </tr>
+            <tr>
+                <td>doing whatever they like</td>
+                <td>Being Bothered</td>
+            </tr>
+            <tr>
+                <td>eating everything</td>
+                <td>Not getting honey</td>
+            </tr>
+        </table>
+    </div>
+
+    <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/hLG_Q8FJda0"
+            alt="honeybadger video"></iframe>
+    </div>
+</body>
+
+</html>
