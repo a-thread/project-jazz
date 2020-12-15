@@ -4,14 +4,14 @@ Get familiar with Git Bash, VS Code, and Github!
 
 ### First Week Goals
 
-1. What are our Goals?
+1. What do we want to learn?
 2. What is Git and why is it important?
-3. confirm bash and vscode installation
+3. Confirm bash and vscode installation
     a. Set up SSH keys 
-4. use console to create, move and delete files
-5. connect to Github
-    a. clone repo
-    b. pull/push code
+4. Use console to create, move and delete files
+5. Connect to Github
+    - clone repo
+    - pull/push code
 6. Create an HTML Page
 
 ### Session Activities
