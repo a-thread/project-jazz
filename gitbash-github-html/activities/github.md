@@ -8,5 +8,5 @@
 
 
 ## links for later
-- [How to Add SSH Keys](https://www.youtube.com/watch?v=Nf2Ggt3Mwgk&feature=emb_title)
+- [How to Add SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2)
 - [terminal command cheat sheet](https://dev.to/kymiddleton/reference-guide-common-commands-for-terminal-6no)
