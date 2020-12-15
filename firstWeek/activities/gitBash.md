@@ -1,7 +1,9 @@
 # Git Bash FUNNN
 
-- [ ] make sure it's set up properly!
-- [ ] get to desktop
+Step One: make sure it's set up properly!
+
+Excercises:
+- [ ] navigate to desktop
 - [ ] make a folder
 - [ ] get into that folder
 - [ ] make 2 files

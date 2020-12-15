@@ -8,4 +8,5 @@
 
 
 ## links for later
-- [command cheat sheet](https://dev.to/kymiddleton/reference-guide-common-commands-for-terminal-6no)
+- [How to Add SSH Keys](https://www.youtube.com/watch?v=Nf2Ggt3Mwgk&feature=emb_title)
+- [terminal command cheat sheet](https://dev.to/kymiddleton/reference-guide-common-commands-for-terminal-6no)

@@ -11,14 +11,14 @@ In a new html file, create the basic structure of an html page including:
     - one is red
     - one opens in a new tab
 
-## Reference Photo
-Basic:
+## Reference Photos
+**Basic:**
 ![HoneyBadger: Basic](./images/basic.png)
 
-Extras:
+**Extras:**
 ![HoneyBadger: Extras](./images/extras.gif)
 
-Dark Mode:
+**Dark Mode:**
 ![HoneyBadger: DarkMode](./images/darkMode.gif)
 
 ### Extras
@@ -29,7 +29,7 @@ Dark Mode:
     - second column with least favorite things about topc
 - embed a youtube video
 - style with flexbox
-- style it in dark mode
+- style it in dark mode (or any color mode you'd like)
 
 ### Hints
 - target="_blank" 

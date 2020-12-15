@@ -23,9 +23,8 @@ Get familiar with Git Bash, VS Code, and Github!
     - open VS Code 
 * **Github:** 
     - Clone a repo
+    - Create a repo
     - Pull and push code
-    - talk about version control 
-        - why is this important?
 
 ### Extras
 - Make a practice site
