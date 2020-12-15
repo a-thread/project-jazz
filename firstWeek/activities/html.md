@@ -32,6 +32,6 @@ Dark Mode:
 - style it in dark mode
 
 ### Hints
-- target="_blank"
-- w3 schools is your friend in this
+- target="_blank" 
+- [w3 schools is your friend in this](https://www.w3schools.com/html/html_basic.asp)
 - [flexbox docs](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
