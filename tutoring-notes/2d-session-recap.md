@@ -1,0 +1,25 @@
+## Recap of 12/20/20
+- created an html file from scratch:
+   - html = hypertext markup language
+   - learned about headers
+   - created the following elements:
+	- h1 =  title, of the largest size
+	- p = paragraph
+	- img = image
+	- ul = unordered list
+	- ol = ordered list
+	- a = link
+- created styling for the page:
+   - css = cascading stylesheets
+   - learned about inline styling
+	- style="" inside an element
+   - created an external style sheet
+   - made something bold (affecting the font weight):
+	- font-weight: 600
+   - made something a different color:
+	- color: brown;
+- learned keyboard shortcuts
+   - formatting: Shift + Alt + F
+   - moving a line up or down: Alt + (arrow up/down)
+- talked about best practices for naming files
+- published our first repo!
